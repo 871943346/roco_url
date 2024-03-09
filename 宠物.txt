@@ -1,0 +1,9 @@
+宠物
+头像
+https://res.17roco.qq.com/res/combat/icons/宠物编号-.png
+
+图鉴动画
+https://res.17roco.qq.com/res/combat/previews/2810-idle.swf
+
+战斗动作
+https://res.17roco.qq.com/res/combat/spirits/2810-.swf
